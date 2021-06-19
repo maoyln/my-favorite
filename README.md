@@ -2,9 +2,9 @@
   <img width="320" src="https://cdn.jsdelivr.net/gh/maoyln/maoyl-img/blog/my-favorite-logo.png">
 </p>
 
-在线地址：https://panjiachen.github.io/awesome-bookmarks
+在线地址：https://maoyl-favorite.vercel.app/
 
-gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookmarks](https://panjiachen.gitee.io/awesome-bookmarks/)
+gitee 访问地址(github.io 有时候在国内访问会很慢)：[my-favorite](https://github.com/maoyln/my-favorite/)
 
 **本项目为个人技术收藏集，里面会不定期分享一些作者平时用到的一些库，或者常用的网站和小工具。同时作者也会在上面不定期的写一些简单的博文**
 
