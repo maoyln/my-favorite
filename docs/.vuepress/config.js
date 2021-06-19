@@ -1,9 +1,9 @@
 const utils = require('./utils')
 
 module.exports = {
-  title: 'awesome-bookmarks',
+  title: 'maoyl-favorite',
   description: '个人收藏夹',
-  base: '/awesome-bookmarks/',
+  base: '/maoyl-favorite/',
   head: [
     [
       'link',
