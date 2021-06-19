@@ -3,7 +3,7 @@ const utils = require('./utils')
 module.exports = {
   title: 'maoyl-favorite',
   description: '个人收藏夹',
-  base: '/',
+  // base: '/',
   head: [
     [
       'link',
