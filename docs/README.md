@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /home.jpg
+heroImage: /my-favorite-logo.png
 actionText: 开始了解 →
 actionLink: /repository/
 
